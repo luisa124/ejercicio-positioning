@@ -1,3 +1,4 @@
+/*ejercicio desafio 3 positioning*/
 body {
     margin: 0;
     padding: 0;
@@ -16,7 +17,7 @@ body {
 }
 #azul {
     background-color: #2B7DB9;
-    position: relative;
+    position: absolute;
     left: 200px;
 }
 #verde {
