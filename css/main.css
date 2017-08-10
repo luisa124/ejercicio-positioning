@@ -17,8 +17,7 @@ body {
 }
 #azul {
     background-color: #2B7DB9;
-    background-color: #2B7DB9;
-    position: absolute;
+    position: relative;
     left: 200px;
 }
 #verde {
